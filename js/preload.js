@@ -1,0 +1,1 @@
+console.info ("Está a punto de iniciar la página")
